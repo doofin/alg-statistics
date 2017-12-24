@@ -1,5 +1,5 @@
 
-# alg-statistics
+# statistics from a more algebraic point of view
 This is my own answer for  https://mathoverflow.net/questions/287058/good-introduction-to-statistics-from-a-algebraic-point-of-view ,currently there are no measure theory .
 
 According to standart statistics book,discrete random variable and probability can be defined as follow:
